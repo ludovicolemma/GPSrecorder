@@ -8,11 +8,7 @@ import android.os.Binder;
 import android.os.Build;
 import android.os.IBinder;
 
-import androidx.annotation.Nullable;
 import androidx.core.app.NotificationCompat;
-
-import java.util.ArrayList;
-import java.util.Map;
 
 
 public class DataCollectorService extends Service {
