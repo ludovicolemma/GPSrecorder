@@ -26,7 +26,7 @@ For the app to work it is necessary to have the GPS active on the device and to 
 
 Finally the data can be retrieved through either the API or it can be queried through the website, it can be exported to a json and it can be easily made into tabular data. As an example this is one timestamp stored in the db:
 <p align="center">
-<img src="https://github.com/lwdovico/GPSrecorder/raw/main/examples/data_stored.png" alt="dbData" height="500">
+<img src="https://github.com/lwdovico/GPSrecorder/raw/main/examples/data_stored.png" alt="dbData" height="400">
 </p>
 
 
